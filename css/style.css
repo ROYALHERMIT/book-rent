@@ -1,0 +1,14 @@
+
+html,body{
+    width: 100%;
+    height: 100%;
+}
+body{
+    background-image: url("../img/bg.jpg") !important;
+    /* background-repeat: no-repeat !important; */
+    /* background-attachment: fixed !important; */
+    /* background-size: cover !important; */
+}
+.bg-trans{
+    background-color: transparent;
+}
